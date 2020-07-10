@@ -12,3 +12,12 @@ Chrome extension which removes [@0crat](https://github.com/0crat) messages from 
 4. Click the __LOAD UNPACKED__ button and select the extension directory.
 ![image](https://user-images.githubusercontent.com/16746106/87173749-e3e22b80-c2de-11ea-8ea6-6664c6555c88.png)
 5. Ta-da! The extension has been successfully installed.
+
+
+# Demo
+
+### Before 
+![image](https://user-images.githubusercontent.com/16746106/87174503-ea24d780-c2df-11ea-88df-e2f62bb92408.png)
+
+### After
+![image](https://user-images.githubusercontent.com/16746106/87174675-353eea80-c2e0-11ea-94e9-6f1abf06613b.png)
