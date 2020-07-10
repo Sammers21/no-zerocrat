@@ -1,0 +1,15 @@
+{
+    "name": "No Zerocrat",
+    "version": "1.1",
+    "description": "Ignores 0crat user on Github",
+    "content_scripts": [{
+        "js": ["remove-zerocrat.js"],
+        "matches": ["https://github.com/*"]
+    }],    
+    "icons": { 
+        "16": "img/zerocrat-16.png",
+        "48": "img/zerocrat-48.png",
+       "128": "img/zerocrat-128.png" 
+    },
+    "manifest_version": 2
+}
