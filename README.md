@@ -1,9 +1,15 @@
+
+
+[![image](https://user-images.githubusercontent.com/16746106/87253501-63f5c600-c484-11ea-9e71-b97091c64dbc.png)](https://chrome.google.com/webstore/detail/no-zerocrat/lbodgimbdhgjnolgbkoegonpocccoima?hl=en-GB&authuser=0)
+
 ![image](https://user-images.githubusercontent.com/16746106/87172361-cf049880-c2dc-11ea-9be2-7695149e0906.png)
 
 # No-zerocrat
 A hrome extension which removes [@0crat](https://github.com/0crat) messages from issues and pull requests
 
 # How to use it
+
+[Install it](https://chrome.google.com/webstore/detail/no-zerocrat/lbodgimbdhgjnolgbkoegonpocccoima?hl=en-GB&authuser=0) from chrome storge or:
 
 1. Clone the repository: `git clone https://github.com/Sammers21/no-zerocrat.git`
 2. Open the Extension Management page by navigating to `chrome://extensions`.
