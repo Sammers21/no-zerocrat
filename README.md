@@ -7,7 +7,7 @@ A Google Chrome extension which removes [@0crat](https://github.com/0crat) messa
 
 # How to use it
 
-[Install it from chrome storge](https://chrome.google.com/webstore/detail/no-zerocrat/lbodgimbdhgjnolgbkoegonpocccoima?hl=en-GB&authuser=0) or:
+[Install it from the chrome storge](https://chrome.google.com/webstore/detail/no-zerocrat/lbodgimbdhgjnolgbkoegonpocccoima?hl=en-GB&authuser=0) or:
 
 1. Clone the repository: `git clone https://github.com/Sammers21/no-zerocrat.git`
 2. Open the Extension Management page by navigating to `chrome://extensions`.
