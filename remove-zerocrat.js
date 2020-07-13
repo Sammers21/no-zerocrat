@@ -10,4 +10,4 @@ function getElementsByXPath(xpath, parent)
 }
 getElementsByXPath("//div[contains(@class,'timeline-comment-header')]//a[text()='0crat']/../../../..").forEach(elem => elem.remove());
 getElementsByXPath("//a[contains(@data-hovercard-url,'/users/0crat/hovercard')]").forEach(elem => elem.remove());
-console.log("Zerocrat has been removed from the pages");
+console.log("Zerocrat has been removed from the page");
